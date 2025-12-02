@@ -16,7 +16,7 @@ namespace Demo
         public MainForm()
         {
             InitializeComponent();
-            //string s = System.IO.File.ReadAllText(@"E:\fengxinxin\RTGUIBuilder\RTGUIBuilder\bin\Debug\ProjectName19\ProjectName19\keyboard\keyboard.js");
+            //string s = System.IO.File.ReadAllText(@"E:\keyboard.js");
         }
 
         private void addFormToolStripMenuItem_Click(object sender, EventArgs e)
